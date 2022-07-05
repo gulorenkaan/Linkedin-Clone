@@ -1,2 +1,2 @@
 # Linkedin-Clone
-Bootstrap kullanarak yaptığım instagram clone'u.
+Bootstrap kullanarak yaptığım Linkedin clone'u.
